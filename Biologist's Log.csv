@@ -1,0 +1,261 @@
+Week,Year,Location 1,Sighting 1,Location 2,Sighting 2,Location 3,Sighting 3
+1,1,The Lordesteppes,Flamu,Thunderwood Peaks,Downhanger,Devil's Maw,Earthmover
+2,1,Devil's Maw,Wrathrope,Thunderwood Peaks,Downhanger,Miresmouth Forests,Sandcrawler
+3,1,The Lordesteppes,Flamu,Thunderwood Peaks,Toxicala,Devil's Maw,Wrathrope
+4,1,Devil's Maw,Wrathrope,The Lordesteppes,Thunderclap Wyvern,Thunderwood Peaks,Peaksnake
+5,1,Miresmouth Forests,Sandcrawler,The Lordesteppes,Cold Parrot,Thunderwood Peaks,Toxicala
+6,1,The Lordesteppes,Flamu,Thunderwood Peaks,Northern Badger,Miresmouth Forests,Dull viper
+7,1,Miresmouth Forests,Flying Storm,Devil's Maw,Earthmover,The Lordesteppes,Macrophant
+8,1,Scorchsand Shores,Cassowarrior,Miresmouth Forests,Dull viper,Devil's Maw,Downhanger
+9,1,The Lordesteppes,Cold Parrot,Scorchsand Shores,Flamu,Miresmouth Forests,Dull viper
+10,1,Devil's Maw,Earthmover,The Lordesteppes,Macrophant,Miresmouth Forests,Flying Storm
+11,1,Devil's Maw,Earthmover,Scorchsand Shores,Wrathrope,Miresmouth Forests,Dull viper
+12,1,Miresmouth Forests,Dull viper,Scorchsand Shores,Sandcrawler,Devil's Maw,Downhanger
+13,1,The Lordesteppes,Thunderclap Wyvern,Devil's Maw,Downhanger,Scorchsand Shores,Northern Badger
+14,1,The Lordesteppes,Thunderclap Wyvern,Scorchsand Shores,Cassowarrior,Devil's Maw,Downhanger
+15,1,The Lordesteppes,Thunderclap Wyvern,Devil's Maw,Earthmover,Scorchsand Shores,Northern Badger
+16,1,Scorchsand Shores,Northern Badger,Devil's Maw,Earthmover,The Lordesteppes,Flamu
+17,1,Miresmouth Forests,Dull viper,The Lordesteppes,Cold Parrot,Scorchsand Shores,Cassowarrior
+18,1,The Lordesteppes,Macrophant,Miresmouth Forests,Flying Storm,Scorchsand Shores,Sandcrawler
+19,1,Scorchsand Shores,Sandcrawler,Devil's Maw,Earthmover,Miresmouth Forests,Flying Storm
+20,1,Miresmouth Forests,Macrophant,Devil's Maw,Downhanger,Scorchsand Shores,Northern Badger
+21,1,Miresmouth Forests,Flying Storm,Devil's Maw,Downhanger,Thunderwood Peaks,Cold Parrot
+22,1,Scorchsand Shores,Northern Badger,Thunderwood Peaks,Northern Badger,Miresmouth Forests,Puffdrake
+23,1,Thunderwood Peaks,Northern Badger,Scorchsand Shores,Wrathrope,Devil's Maw,Downhanger
+24,1,Thunderwood Peaks,Northern Badger,Devil's Maw,Downhanger,Scorchsand Shores,Sandcrawler
+25,1,Scorchsand Shores,Flamu,Devil's Maw,Downhanger,Miresmouth Forests,Puffdrake
+26,1,Thunderwood Peaks,Peaksnake,Devil's Maw,Downhanger,Miresmouth Forests,Flying Storm
+27,1,Miresmouth Forests,Macrophant,Scorchsand Shores,Earthmover,Devil's Maw,Downhanger
+28,1,Miresmouth Forests,Puffdrake,Devil's Maw,Downhanger,Thunderwood Peaks,Cold Parrot
+29,1,Scorchsand Shores,Northern Badger,Thunderwood Peaks,Cold Parrot,Miresmouth Forests,Dull viper
+30,1,Miresmouth Forests,Cassowarrior,Thunderwood Peaks,Cold Parrot,Devil's Maw,Downhanger
+31,1,Miresmouth Forests,Flying Storm,Scorchsand Shores,Wrathrope,Devil's Maw,Downhanger
+32,1,Thunderwood Peaks,Peaksnake,Devil's Maw,Downhanger,Miresmouth Forests,Dull viper
+33,1,Scorchsand Shores,Wrathrope,Devil's Maw,Earthmover,Thunderwood Peaks,Northern Badger
+34,1,Devil's Maw,Earthmover,Thunderwood Peaks,Northern Badger,The Lordesteppes,Macrophant
+35,1,The Lordesteppes,Thunderclap Wyvern,Scorchsand Shores,Northern Badger,Devil's Maw,Earthmover
+36,1,Devil's Maw,Downhanger,The Lordesteppes,Macrophant,Scorchsand Shores,Flamu
+37,1,The Lordesteppes,Thunderclap Wyvern,Scorchsand Shores,Cassowarrior,Thunderwood Peaks,Peaksnake
+38,1,The Lordesteppes,Macrophant,Scorchsand Shores,Cassowarrior,Thunderwood Peaks,Peaksnake
+39,1,Scorchsand Shores,Sandcrawler,The Lordesteppes,Cold Parrot,The Lordesteppes,Thunderclap Wyvern
+40,1,Devil's Maw,Earthmover,Scorchsand Shores,Northern Badger,Thunderwood Peaks,Peaksnake
+41,1,Devil's Maw,Earthmover,Thunderwood Peaks,Toxicala,Scorchsand Shores,Sandcrawler
+42,1,Scorchsand Shores,Northern Badger,Devil's Maw,Earthmover,The Lordesteppes,Flamu
+43,1,The Lordesteppes,Macrophant,Thunderwood Peaks,Puffdrake,Devil's Maw,Earthmover
+44,1,Devil's Maw,Earthmover,Thunderwood Peaks,Peaksnake,Scorchsand Shores,Cassowarrior
+45,1,Scorchsand Shores,Flamu,Devil's Maw,Earthmover,The Lordesteppes,Flamu
+46,1,Thunderwood Peaks,Peaksnake,Miresmouth Forests,Sandcrawler,The Lordesteppes,Macrophant
+47,1,Thunderwood Peaks,Toxicala,Miresmouth Forests,Dull viper,The Lordesteppes,Thunderclap Wyvern
+48,1,The Lordesteppes,Macrophant,Thunderwood Peaks,Toxicala,Miresmouth Forests,Sandcrawler
+49,1,The Lordesteppes,Flamu,Thunderwood Peaks,Peaksnake,Miresmouth Forests,Dull viper
+50,1,The Lordesteppes,Thunderclap Wyvern,Thunderwood Peaks,Toxicala,Miresmouth Forests,Sandcrawler
+51,1,The Lordesteppes,Thunderclap Wyvern,Thunderwood Peaks,Downhanger,Devil's Maw,Wrathrope
+52,1,Devil's Maw,Wrathrope,Miresmouth Forests,Dull viper,Thunderwood Peaks,Toxicala
+1,2,Miresmouth Forests,Dull viper,Devil's Maw,Earthmover,The Lordesteppes,Thunderclap Wyvern
+2,2,Miresmouth Forests,Dull viper,Thunderwood Peaks,Puffdrake,The Lordesteppes,Thunderclap Wyvern
+3,2,Miresmouth Forests,Dull viper,Thunderwood Peaks,Peaksnake,The Lordesteppes,Flamu
+4,2,Miresmouth Forests,Dull viper,Thunderwood Peaks,Puffdrake,The Lordesteppes,Flamu
+5,2,Thunderwood Peaks,Downhanger,Miresmouth Forests,Sandcrawler,The Lordesteppes,Flying Storm
+6,2,Thunderwood Peaks,Peaksnake,Miresmouth Forests,Sandcrawler,Devil's Maw,Wrathrope
+7,2,Scorchsand Shores,Cassowarrior,Miresmouth Forests,Flying Storm,Devil's Maw,Downhanger
+8,2,Devil's Maw,Earthmover,The Lordesteppes,Rimewinder,Miresmouth Forests,Dull viper
+9,2,Devil's Maw,Downhanger,Miresmouth Forests,Flying Storm,The Lordesteppes,Thunderclap Wyvern
+10,2,Miresmouth Forests,Flying Storm,Scorchsand Shores,Wrathrope,Devil's Maw,Downhanger
+11,2,Miresmouth Forests,Dull viper,Scorchsand Shores,Sandcrawler,Devil's Maw,Earthmover
+12,2,Devil's Maw,Downhanger,The Lordesteppes,Thunderclap Wyvern,Scorchsand Shores,Cassowarrior
+13,2,The Lordesteppes,Thunderclap Wyvern,Devil's Maw,Earthmover,The Lordesteppes,Flamu
+14,2,Scorchsand Shores,Cassowarrior,The Lordesteppes,Macrophant,Miresmouth Forests,Flying Storm
+15,2,Devil's Maw,Downhanger,Miresmouth Forests,Flying Storm,Scorchsand Shores,Cassowarrior
+16,2,The Lordesteppes,Cold Parrot,Devil's Maw,Earthmover,Scorchsand Shores,Wrathrope
+17,2,Miresmouth Forests,Dull viper,Scorchsand Shores,Flamu,Devil's Maw,Downhanger
+18,2,The Lordesteppes,Rimewinder,Scorchsand Shores,Wrathrope,Miresmouth Forests,Dull viper
+19,2,The Lordesteppes,Cold Parrot,Scorchsand Shores,Cassowarrior,Miresmouth Forests,Dull viper
+20,2,Scorchsand Shores,Flamu,Thunderwood Peaks,Northern Badger,Devil's Maw,Downhanger
+21,2,Scorchsand Shores,Flamu,Miresmouth Forests,Puffdrake,Thunderwood Peaks,Peaksnake
+22,2,Devil's Maw,Downhanger,Scorchsand Shores,Northern Badger,Miresmouth Forests,Dull viper
+23,2,Devil's Maw,Downhanger,Scorchsand Shores,Sandcrawler,Miresmouth Forests,Dull viper
+24,2,Devil's Maw,Downhanger,Miresmouth Forests,Puffdrake,Thunderwood Peaks,Northern Badger
+25,2,Scorchsand Shores,Flamu,Devil's Maw,Downhanger,Thunderwood Peaks,Northern Badger
+26,2,Thunderwood Peaks,Cold Parrot,Devil's Maw,Downhanger,Miresmouth Forests,Puffdrake
+27,2,Thunderwood Peaks,Cold Parrot,Devil's Maw,Downhanger,Scorchsand Shores,Earthmover
+28,2,Thunderwood Peaks,Peaksnake,Scorchsand Shores,Flamu,Miresmouth Forests,Cassowarrior
+29,2,Miresmouth Forests,Puffdrake,Devil's Maw,Downhanger,Scorchsand Shores,Flamu
+30,2,Devil's Maw,Downhanger,Scorchsand Shores,Sandcrawler,Thunderwood Peaks,Peaksnake
+31,2,Devil's Maw,Downhanger,Thunderwood Peaks,Northern Badger,Miresmouth Forests,Dull viper
+32,2,Scorchsand Shores,Sandcrawler,Miresmouth Forests,Cassowarrior,Thunderwood Peaks,Cold Parrot
+33,2,Scorchsand Shores,Northern Badger,Devil's Maw,Downhanger,Thunderwood Peaks,Toxicala
+34,2,Devil's Maw,Earthmover,Scorchsand Shores,Northern Badger,The Lordesteppes,Cold Parrot
+35,2,Devil's Maw,Downhanger,Thunderwood Peaks,Northern Badger,The Lordesteppes,Flamu
+36,2,Scorchsand Shores,Sandcrawler,Devil's Maw,Downhanger,Thunderwood Peaks,Toxicala
+37,2,The Lordesteppes,Thunderclap Wyvern,Scorchsand Shores,Wrathrope,Thunderwood Peaks,Northern Badger
+38,2,The Lordesteppes,Cold Parrot,Thunderwood Peaks,Puffdrake,Scorchsand Shores,Cassowarrior
+39,2,Scorchsand Shores,Cassowarrior,The Lordesteppes,Rimewinder,Scorchsand Shores,Northern Badger
+40,2,Devil's Maw,Earthmover,The Lordesteppes,Rimewinder,Scorchsand Shores,Wrathrope
+41,2,The Lordesteppes,Rimewinder,Scorchsand Shores,Flamu,Devil's Maw,Earthmover
+42,2,Thunderwood Peaks,Toxicala,Devil's Maw,Downhanger,The Lordesteppes,Macrophant
+43,2,Scorchsand Shores,Cassowarrior,Thunderwood Peaks,Puffdrake,Devil's Maw,Downhanger
+44,2,Scorchsand Shores,Cassowarrior,Thunderwood Peaks,Peaksnake,Devil's Maw,Earthmover
+45,2,Devil's Maw,Downhanger,Scorchsand Shores,Flamu,The Lordesteppes,Thunderclap Wyvern
+46,2,Miresmouth Forests,Sandcrawler,Thunderwood Peaks,Northern Badger,The Lordesteppes,Thunderclap Wyvern
+47,2,Thunderwood Peaks,Northern Badger,The Lordesteppes,Cold Parrot,Miresmouth Forests,Dull viper
+48,2,Thunderwood Peaks,Northern Badger,Miresmouth Forests,Dull viper,The Lordesteppes,Flamu
+49,2,Miresmouth Forests,Sandcrawler,Thunderwood Peaks,Northern Badger,The Lordesteppes,Macrophant
+50,2,Miresmouth Forests,Dull viper,Devil's Maw,Wrathrope,The Lordesteppes,Flying Storm
+51,2,Devil's Maw,Earthmover,Thunderwood Peaks,Toxicala,The Lordesteppes,Cold Parrot
+52,2,Devil's Maw,Earthmover,Thunderwood Peaks,Northern Badger,Miresmouth Forests,Dull viper
+1,3,Thunderwood Peaks,Puffdrake,Devil's Maw,Earthmover,Miresmouth Forests,Sandcrawler
+2,3,Miresmouth Forests,Dull viper,The Lordesteppes,Flamu,Devil's Maw,Rimewinder
+3,3,Devil's Maw,Earthmover,Thunderwood Peaks,Peaksnake,Miresmouth Forests,Sandcrawler
+4,3,The Lordesteppes,Cold Parrot,Devil's Maw,Rimewinder,Miresmouth Forests,Sandcrawler
+5,3,The Lordesteppes,Cold Parrot,Thunderwood Peaks,Puffdrake,Miresmouth Forests,Sandcrawler
+6,3,Miresmouth Forests,Dull viper,Devil's Maw,Wrathrope,Thunderwood Peaks,Peaksnake
+7,3,Scorchsand Shores,Flamu,Miresmouth Forests,Dull viper,The Lordesteppes,Thunderclap Wyvern
+8,3,The Lordesteppes,Flamu,Scorchsand Shores,Northern Badger,Devil's Maw,Downhanger
+9,3,Scorchsand Shores,Cassowarrior,Devil's Maw,Downhanger,Miresmouth Forests,Dull viper
+10,3,Devil's Maw,Downhanger,The Lordesteppes,Cold Parrot,Scorchsand Shores,Sandcrawler
+11,3,Devil's Maw,Downhanger,The Lordesteppes,Thunderclap Wyvern,Scorchsand Shores,Sandcrawler
+12,3,Devil's Maw,Earthmover,Scorchsand Shores,Wrathrope,The Lordesteppes,Rimewinder
+13,3,The Lordesteppes,Cold Parrot,Scorchsand Shores,Cassowarrior,Devil's Maw,Downhanger
+14,3,Scorchsand Shores,Flamu,Miresmouth Forests,Dull viper,Devil's Maw,Earthmover
+15,3,Scorchsand Shores,Northern Badger,Miresmouth Forests,Flying Storm,The Lordesteppes,Thunderclap Wyvern
+16,3,Devil's Maw,Downhanger,Miresmouth Forests,Flying Storm,The Lordesteppes,Cold Parrot
+17,3,Devil's Maw,Earthmover,Scorchsand Shores,Cassowarrior,Miresmouth Forests,Dull viper
+18,3,The Lordesteppes,Cold Parrot,Scorchsand Shores,Sandcrawler,Devil's Maw,Earthmover
+19,3,Miresmouth Forests,Dull viper,Devil's Maw,Downhanger,Scorchsand Shores,Wrathrope
+20,3,Devil's Maw,Downhanger,Scorchsand Shores,Northern Badger,Thunderwood Peaks,Northern Badger
+21,3,Scorchsand Shores,Earthmover,Thunderwood Peaks,Northern Badger,Miresmouth Forests,Puffdrake
+22,3,Miresmouth Forests,Cassowarrior,Scorchsand Shores,Sandcrawler,Devil's Maw,Downhanger
+23,3,Miresmouth Forests,Flying Storm,Thunderwood Peaks,Northern Badger,Scorchsand Shores,Wrathrope
+24,3,Devil's Maw,Downhanger,Thunderwood Peaks,Cold Parrot,Scorchsand Shores,Flamu
+25,3,Thunderwood Peaks,Northern Badger,Devil's Maw,Downhanger,Miresmouth Forests,Dull viper
+26,3,Devil's Maw,Downhanger,Miresmouth Forests,Cassowarrior,Miresmouth Forests,Flying Storm
+27,3,Devil's Maw,Downhanger,Miresmouth Forests,Cassowarrior,Thunderwood Peaks,Cold Parrot
+28,3,Thunderwood Peaks,Northern Badger,Scorchsand Shores,Wrathrope,Miresmouth Forests,Flying Storm
+29,3,Scorchsand Shores,Sandcrawler,Miresmouth Forests,Flying Storm,Devil's Maw,Downhanger
+30,3,Thunderwood Peaks,Peaksnake,Devil's Maw,Downhanger,Miresmouth Forests,Puffdrake
+31,3,Scorchsand Shores,Earthmover,Devil's Maw,Downhanger,Miresmouth Forests,Puffdrake
+32,3,Scorchsand Shores,Wrathrope,Miresmouth Forests,Cassowarrior,Thunderwood Peaks,Peaksnake
+33,3,Devil's Maw,Downhanger,The Lordesteppes,Rimewinder,Scorchsand Shores,Cassowarrior
+34,3,Thunderwood Peaks,Toxicala,Scorchsand Shores,Northern Badger,Devil's Maw,Earthmover
+35,3,Devil's Maw,Earthmover,The Lordesteppes,Flamu,Scorchsand Shores,Cassowarrior
+36,3,Scorchsand Shores,Northern Badger,Devil's Maw,Downhanger,Thunderwood Peaks,Northern Badger
+37,3,The Lordesteppes,Rimewinder,Scorchsand Shores,Cassowarrior,Scorchsand Shores,Northern Badger
+38,3,The Lordesteppes,Macrophant,Thunderwood Peaks,Northern Badger,Thunderwood Peaks,Northern Badger
+39,3,The Lordesteppes,Macrophant,Scorchsand Shores,Cassowarrior,The Lordesteppes,Cold Parrot
+40,3,Devil's Maw,Earthmover,Scorchsand Shores,Northern Badger,The Lordesteppes,Thunderclap Wyvern
+41,3,Devil's Maw,Downhanger,Thunderwood Peaks,Puffdrake,Scorchsand Shores,Flamu
+42,3,The Lordesteppes,Macrophant,Scorchsand Shores,Northern Badger,Thunderwood Peaks,Puffdrake
+43,3,Thunderwood Peaks,Northern Badger,Scorchsand Shores,Wrathrope,Devil's Maw,Earthmover
+44,3,Devil's Maw,Earthmover,Thunderwood Peaks,Toxicala,Scorchsand Shores,Flamu
+45,3,Scorchsand Shores,Northern Badger,Thunderwood Peaks,Peaksnake,The Lordesteppes,Rimewinder
+46,3,The Lordesteppes,Cold Parrot,Thunderwood Peaks,Toxicala,Miresmouth Forests,Dull viper
+47,3,Miresmouth Forests,Sandcrawler,Thunderwood Peaks,Northern Badger,Miresmouth Forests,Sandcrawler
+48,3,The Lordesteppes,Flying Storm,Miresmouth Forests,Dull viper,Miresmouth Forests,Dull viper
+49,3,Thunderwood Peaks,Puffdrake,The Lordesteppes,Flying Storm,Miresmouth Forests,Dull viper
+50,3,The Lordesteppes,Macrophant,Devil's Maw,Earthmover,Thunderwood Peaks,Puffdrake
+51,3,Miresmouth Forests,Dull viper,Devil's Maw,Earthmover,The Lordesteppes,Flying Storm
+52,3,Miresmouth Forests,Sandcrawler,Thunderwood Peaks,Peaksnake,Devil's Maw,Rimewinder
+1,4,Thunderwood Peaks,Peaksnake,Miresmouth Forests,Dull viper,Devil's Maw,Wrathrope
+2,4,Devil's Maw,Earthmover,The Lordesteppes,Flamu,Miresmouth Forests,Dull viper
+3,4,Miresmouth Forests,Dull viper,Thunderwood Peaks,Downhanger,The Lordesteppes,Flying Storm
+4,4,The Lordesteppes,Flamu,Miresmouth Forests,Dull viper,Devil's Maw,Wrathrope
+5,4,Devil's Maw,Wrathrope,The Lordesteppes,Macrophant,Miresmouth Forests,Sandcrawler
+6,4,Devil's Maw,Rimewinder,Thunderwood Peaks,Peaksnake,Miresmouth Forests,Dull viper
+7,4,Devil's Maw,Downhanger,Miresmouth Forests,Flying Storm,The Lordesteppes,Thunderclap Wyvern
+8,4,Miresmouth Forests,Flying Storm,The Lordesteppes,Flamu,Devil's Maw,Earthmover
+9,4,Scorchsand Shores,Flamu,The Lordesteppes,Rimewinder,Devil's Maw,Downhanger
+10,4,Miresmouth Forests,Dull viper,Scorchsand Shores,Northern Badger,Devil's Maw,Earthmover
+11,4,Miresmouth Forests,Flying Storm,Devil's Maw,Earthmover,Scorchsand Shores,Cassowarrior
+12,4,Miresmouth Forests,Dull viper,Scorchsand Shores,Wrathrope,The Lordesteppes,Thunderclap Wyvern
+13,4,The Lordesteppes,Rimewinder,Devil's Maw,Earthmover,Scorchsand Shores,Northern Badger
+14,4,Scorchsand Shores,Cassowarrior,Miresmouth Forests,Flying Storm,The Lordesteppes,Thunderclap Wyvern
+15,4,The Lordesteppes,Thunderclap Wyvern,Miresmouth Forests,Flying Storm,Scorchsand Shores,Wrathrope
+16,4,Devil's Maw,Earthmover,Scorchsand Shores,Wrathrope,The Lordesteppes,Flamu
+17,4,Miresmouth Forests,Dull viper,Scorchsand Shores,Sandcrawler,Devil's Maw,Earthmover
+18,4,The Lordesteppes,Macrophant,Scorchsand Shores,Sandcrawler,Miresmouth Forests,Flying Storm
+19,4,Miresmouth Forests,Dull viper,The Lordesteppes,Macrophant,Devil's Maw,Earthmover
+20,4,Scorchsand Shores,Earthmover,Thunderwood Peaks,Peaksnake,Devil's Maw,Downhanger
+21,4,Thunderwood Peaks,Cold Parrot,Scorchsand Shores,Flamu,Miresmouth Forests,Flying Storm
+22,4,Thunderwood Peaks,Peaksnake,Scorchsand Shores,Sandcrawler,Miresmouth Forests,Flying Storm
+23,4,Devil's Maw,Downhanger,Thunderwood Peaks,Peaksnake,Miresmouth Forests,Dull viper
+24,4,Devil's Maw,Downhanger,Scorchsand Shores,Northern Badger,Thunderwood Peaks,Northern Badger
+25,4,Scorchsand Shores,Earthmover,Devil's Maw,Downhanger,Thunderwood Peaks,Peaksnake
+26,4,Miresmouth Forests,Dull viper,Devil's Maw,Downhanger,Thunderwood Peaks,Peaksnake
+27,4,Scorchsand Shores,Earthmover,Miresmouth Forests,Macrophant,Devil's Maw,Downhanger
+28,4,Scorchsand Shores,Flamu,Devil's Maw,Downhanger,Thunderwood Peaks,Peaksnake
+29,4,Devil's Maw,Downhanger,Miresmouth Forests,Macrophant,Scorchsand Shores,Northern Badger
+30,4,Devil's Maw,Downhanger,Thunderwood Peaks,Northern Badger,Miresmouth Forests,Macrophant
+31,4,Thunderwood Peaks,Northern Badger,Devil's Maw,Downhanger,Miresmouth Forests,Flying Storm
+32,4,Miresmouth Forests,Cassowarrior,Thunderwood Peaks,Peaksnake,Scorchsand Shores,Northern Badger
+33,4,Scorchsand Shores,Sandcrawler,The Lordesteppes,Rimewinder,Devil's Maw,Downhanger
+34,4,Thunderwood Peaks,Peaksnake,Scorchsand Shores,Sandcrawler,Devil's Maw,Earthmover
+35,4,Scorchsand Shores,Cassowarrior,Thunderwood Peaks,Puffdrake,Devil's Maw,Earthmover
+36,4,Scorchsand Shores,Flamu,Devil's Maw,Earthmover,Thunderwood Peaks,Toxicala
+37,4,The Lordesteppes,Macrophant,Thunderwood Peaks,Northern Badger,Scorchsand Shores,Northern Badger
+38,4,Scorchsand Shores,Northern Badger,Thunderwood Peaks,Northern Badger,The Lordesteppes,Cold Parrot
+39,4,Scorchsand Shores,Sandcrawler,Scorchsand Shores,Sandcrawler,Scorchsand Shores,Sandcrawler
+40,4,Devil's Maw,Downhanger,Scorchsand Shores,Sandcrawler,The Lordesteppes,Macrophant
+41,4,Devil's Maw,Downhanger,The Lordesteppes,Macrophant,Thunderwood Peaks,Toxicala
+42,4,Thunderwood Peaks,Northern Badger,Devil's Maw,Earthmover,The Lordesteppes,Cold Parrot
+43,4,Scorchsand Shores,Cassowarrior,Thunderwood Peaks,Northern Badger,Devil's Maw,Earthmover
+44,4,Thunderwood Peaks,Puffdrake,The Lordesteppes,Rimewinder,Scorchsand Shores,Cassowarrior
+45,4,Thunderwood Peaks,Peaksnake,Scorchsand Shores,Cassowarrior,The Lordesteppes,Macrophant
+46,4,Miresmouth Forests,Sandcrawler,The Lordesteppes,Thunderclap Wyvern,Thunderwood Peaks,Peaksnake
+47,4,Miresmouth Forests,Sandcrawler,Thunderwood Peaks,Northern Badger,The Lordesteppes,Thunderclap Wyvern
+48,4,The Lordesteppes,Cold Parrot,Thunderwood Peaks,Puffdrake,Miresmouth Forests,Dull viper
+49,4,Thunderwood Peaks,Northern Badger,Miresmouth Forests,Dull viper,The Lordesteppes,Cold Parrot
+50,4,Thunderwood Peaks,Downhanger,Miresmouth Forests,Dull viper,Devil's Maw,Wrathrope
+51,4,Devil's Maw,Wrathrope,The Lordesteppes,Cold Parrot,Miresmouth Forests,Sandcrawler
+52,4,Thunderwood Peaks,Peaksnake,Devil's Maw,Earthmover,Miresmouth Forests,Sandcrawler
+1,5,The Lordesteppes,Flying Storm,Thunderwood Peaks,Peaksnake,Devil's Maw,Wrathrope
+2,5,The Lordesteppes,Flamu,Thunderwood Peaks,Toxicala,Devil's Maw,Earthmover
+3,5,The Lordesteppes,Thunderclap Wyvern,Miresmouth Forests,Sandcrawler,Devil's Maw,Earthmover
+4,5,Devil's Maw,Earthmover,The Lordesteppes,Cold Parrot,Miresmouth Forests,Dull viper
+5,5,Devil's Maw,Rimewinder,The Lordesteppes,Flying Storm,Thunderwood Peaks,Peaksnake
+6,5,The Lordesteppes,Macrophant,Miresmouth Forests,Sandcrawler,Devil's Maw,Wrathrope
+7,5,Miresmouth Forests,Dull viper,Scorchsand Shores,Cassowarrior,Devil's Maw,Earthmover
+8,5,Miresmouth Forests,Flying Storm,Devil's Maw,Downhanger,The Lordesteppes,Rimewinder
+9,5,Miresmouth Forests,Flying Storm,Scorchsand Shores,Cassowarrior,Devil's Maw,Earthmover
+10,5,The Lordesteppes,Flamu,Scorchsand Shores,Flamu,Miresmouth Forests,Flying Storm
+11,5,The Lordesteppes,Thunderclap Wyvern,Devil's Maw,Downhanger,Miresmouth Forests,Dull viper
+12,5,Miresmouth Forests,Flying Storm,Scorchsand Shores,Sandcrawler,Devil's Maw,Downhanger
+13,5,Devil's Maw,Downhanger,The Lordesteppes,Flamu,Scorchsand Shores,Flamu
+14,5,Miresmouth Forests,Flying Storm,Devil's Maw,Downhanger,The Lordesteppes,Macrophant
+15,5,Devil's Maw,Downhanger,Scorchsand Shores,Cassowarrior,The Lordesteppes,Cold Parrot
+16,5,Devil's Maw,Downhanger,The Lordesteppes,Cold Parrot,Miresmouth Forests,Dull viper
+17,5,Miresmouth Forests,Flying Storm,Scorchsand Shores,Flamu,The Lordesteppes,Macrophant
+18,5,Scorchsand Shores,Wrathrope,Miresmouth Forests,Dull viper,The Lordesteppes,Cold Parrot
+19,5,Devil's Maw,Downhanger,The Lordesteppes,Rimewinder,Miresmouth Forests,Flying Storm
+20,5,Scorchsand Shores,Wrathrope,Miresmouth Forests,Puffdrake,Thunderwood Peaks,Peaksnake
+21,5,Scorchsand Shores,Flamu,Devil's Maw,Downhanger,Miresmouth Forests,Dull viper
+22,5,Devil's Maw,Downhanger,Miresmouth Forests,Puffdrake,Thunderwood Peaks,Cold Parrot
+23,5,Thunderwood Peaks,Cold Parrot,Scorchsand Shores,Earthmover,Miresmouth Forests,Cassowarrior
+24,5,Scorchsand Shores,Earthmover,Devil's Maw,Downhanger,Thunderwood Peaks,Cold Parrot
+25,5,Scorchsand Shores,Wrathrope,Miresmouth Forests,Puffdrake,Thunderwood Peaks,Peaksnake
+26,5,Thunderwood Peaks,Northern Badger,Devil's Maw,Downhanger,Miresmouth Forests,Macrophant
+27,5,Miresmouth Forests,Cassowarrior,Thunderwood Peaks,Northern Badger,Devil's Maw,Downhanger
+28,5,Miresmouth Forests,Flying Storm,Scorchsand Shores,Wrathrope,Thunderwood Peaks,Cold Parrot
+29,5,Thunderwood Peaks,Cold Parrot,Miresmouth Forests,Cassowarrior,Scorchsand Shores,Northern Badger
+30,5,Thunderwood Peaks,Cold Parrot,Scorchsand Shores,Northern Badger,Miresmouth Forests,Cassowarrior
+31,5,Devil's Maw,Downhanger,Scorchsand Shores,Wrathrope,Thunderwood Peaks,Northern Badger
+32,5,Devil's Maw,Downhanger,Miresmouth Forests,Dull viper,Scorchsand Shores,Flamu
+33,5,Devil's Maw,Earthmover,Thunderwood Peaks,Peaksnake,The Lordesteppes,Rimewinder
+34,5,Devil's Maw,Downhanger,The Lordesteppes,Macrophant,Scorchsand Shores,Cassowarrior
+35,5,The Lordesteppes,Cold Parrot,Devil's Maw,Earthmover,Thunderwood Peaks,Peaksnake
+36,5,Thunderwood Peaks,Northern Badger,Devil's Maw,Earthmover,The Lordesteppes,Flamu
+37,5,Scorchsand Shores,Flamu,The Lordesteppes,Flamu,Thunderwood Peaks,Puffdrake
+38,5,Scorchsand Shores,Flamu,The Lordesteppes,Macrophant,Thunderwood Peaks,Northern Badger
+39,5,Scorchsand Shores,Northern Badger,The Lordesteppes,Cold Parrot,Scorchsand Shores,Cassowarrior
+40,5,Thunderwood Peaks,Puffdrake,Scorchsand Shores,Northern Badger,The Lordesteppes,Rimewinder
+41,5,The Lordesteppes,Thunderclap Wyvern,Scorchsand Shores,Sandcrawler,Thunderwood Peaks,Toxicala
+42,5,Thunderwood Peaks,Puffdrake,Devil's Maw,Downhanger,Scorchsand Shores,Sandcrawler
+43,5,Scorchsand Shores,Cassowarrior,Devil's Maw,Downhanger,The Lordesteppes,Rimewinder
+44,5,The Lordesteppes,Rimewinder,Devil's Maw,Downhanger,Thunderwood Peaks,Peaksnake
+45,5,Thunderwood Peaks,Toxicala,Scorchsand Shores,Wrathrope,The Lordesteppes,Macrophant
+46,5,The Lordesteppes,Flamu,Miresmouth Forests,Sandcrawler,Thunderwood Peaks,Puffdrake
+47,5,Thunderwood Peaks,Puffdrake,The Lordesteppes,Cold Parrot,Miresmouth Forests,Sandcrawler
+48,5,Miresmouth Forests,Dull viper,The Lordesteppes,Flying Storm,Thunderwood Peaks,Northern Badger
+49,5,Miresmouth Forests,Dull viper,The Lordesteppes,Cold Parrot,Thunderwood Peaks,Northern Badger
+50,5,Thunderwood Peaks,Northern Badger,The Lordesteppes,Flying Storm,Devil's Maw,Wrathrope
+51,5,Devil's Maw,Rimewinder,Thunderwood Peaks,Downhanger,Miresmouth Forests,Dull viper
+52,5,Miresmouth Forests,Dull viper,Devil's Maw,Wrathrope,Thunderwood Peaks,Puffdrake
